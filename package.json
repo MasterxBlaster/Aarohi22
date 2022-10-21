@@ -1,0 +1,23 @@
+{
+  "name": "aarohiwebframework",
+  "version": "1.0.0",
+  "description": "Website for aarohi organization for year 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HIMANSHU,PRATIK,SHIVAM",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "googleapis": "^108.0.0",
+    "gravatar": "^1.8.2",
+    "mongoose": "^6.6.2",
+    "nodemailer": "^6.8.0",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "nodemon": "^2.0.20"
+  }
+}
